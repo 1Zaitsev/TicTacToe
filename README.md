@@ -1,4 +1,3 @@
 # TicTacToe
 
-This repository was created during my studying in Geek Brains University (java development).
-This application is my practical training.
+This application is my practical training during my study at GeekBrains.ru
